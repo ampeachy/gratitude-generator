@@ -1,6 +1,6 @@
 # The Attitude of Gratitude
 
-A small, Thanksgiving-inspired gratitude reflection app. Five questions help people look for a good moment, what contributed to it, simple pleasures, other people, and useful supports already around them. Answers select one of four prompt styles, from a gentle start to delightfully silly ideas.
+A small, Thanksgiving-inspired gratitude reflection app. Five questions help people look for a good moment, what contributed to it, simple pleasures, other people, and useful supports already around them. 
 
 ## Run it
 
